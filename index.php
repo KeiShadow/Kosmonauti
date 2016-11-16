@@ -21,7 +21,7 @@ and open the template in the editor.
         <div class="text-primary text-justify">
             <p>
            Dobrý den TechFides,<br>
-           Na této strance můžete najít evidenci kosmonautů v tabůlce.
+           Na této strance můžete najít evidenci kosmonautů v tabulce.
            Pro vložení nebo odstranění evidovaných kosmonautů se musíte přihlásit.
            Po kliknutí na tlačítko "Přihlásit se" budete přesměrování na stránku s formulářem. 
            Login a Heslo zasílám emailem.
@@ -51,6 +51,7 @@ and open the template in the editor.
             
         </tbody>
         </table>
+            <p class="alert-danger">Pro editování tabulky se musíte přihlásit.</p>
             <a href="prihlaseni.php"> <button type="button" class="btn btn-info btn-lg">Přihlásit se</button> </a>           
     </div>   
     <!--
