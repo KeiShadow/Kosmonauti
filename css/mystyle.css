@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 16, 2016, 5:44:35 PM
+    Author     : Petr
+*/
+@import url('http://getbootstrap.com/dist/css/bootstrap.css');
+ .center_div{
+    padding: 0 auto;
+    width:25% /* value of your choice which suits your alignment */
+}
